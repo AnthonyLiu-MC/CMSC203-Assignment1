@@ -3,6 +3,8 @@
  *  CMSC203 
  * 	Assignment 1 - WindChill Calculator
  *  06/21/2020
+ *  
+ *  Takes input from user and calculates Wind Chill
  *********************************************/
 import java.util.Scanner;	// Import scanner
 
